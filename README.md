@@ -39,14 +39,19 @@ A Retrieval-Augmented Generation (RAG) chatbot that allows you to interact with 
 5. Run the application:
 
 📁 Directory Structure
-    your-repo-name/
+   
+   your-repo-name/
 ├── app.py
+
 ├── models/
 │   └── bitnet-model.gguf
+
 ├── rag-dataset/
 │   └── your-pdfs.pdf
+
 ├── requirements.txt
-└── README.md
+
+└── README.md "
 
 🧠 How It Works
 PDF Processing: Upload PDFs which are then parsed and split into text chunks.
