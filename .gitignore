@@ -1,0 +1,24 @@
+models/
+bin/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+
+# Model files
+*.gguf
+*.bin
+
+# PDFs and datasets
+rag-dataset/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
